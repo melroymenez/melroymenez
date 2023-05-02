@@ -1,7 +1,7 @@
 # Hi there, I'm Melroy 👋 
 
 - 🌱 I’m currently learning Cloud Architecture and Web Developement
-- 🥅 2022 Goals: Learn more about Azure and AWS
+- 🥅 2023 Goals: Learn more about Azure and AWS
 
 ### Connect with me:
 
